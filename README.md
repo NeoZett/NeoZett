@@ -14,6 +14,7 @@ into html, css and soon I made simple web pages... <br>
 only.. for me to watch.. <br>
 
 **So, what do I do?** 
+
 Simple! ~Nothing! -- just a good old boy soon in a buss stop to university, where programming will be having top priotity!
 
 ## Some simple meta:
