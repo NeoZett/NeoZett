@@ -12,9 +12,9 @@ Simple! ~Nothing! -- just a good old boy soon in a buss stop to university, wher
 
 ## Some simple meta:
 
-Name: Neo,
-Gender: He/Him,
-What I do: Programming, Live my life, Enjoy Life, Gym...
+- Name: Neo,
+- Gender: He/Him,
+- What I do: Programming, Live my life, Enjoy Life, Gym...
 
 <!---
 NeoZett/NeoZett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
