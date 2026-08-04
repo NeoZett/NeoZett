@@ -5,8 +5,12 @@
 ## Abstract 📄
 
 I'm an innovative mind with extravagant thoughts, and an aspiring
-developer. I love Computer Science and Psychology. In this document
+developer. I am sixteen years old and started programming at around
+ten. I love Computer Science and Psychology. In this document
 I will explain more about myself.
+
+On my free time, I usually read, write, program, spend time with
+friends and family, or something else.
 
 ## Table of Contents 📖
 
@@ -25,6 +29,9 @@ I will explain more about myself.
 
 Hello. My name is Neo, and I'm an aspiring developer. I love Computer Science and
 Psychology. In this document I will explain more about myself.
+
+On my free time, I usually read, write, program, spend time with
+friends and family, or something else.
 
 I would really appreciate it if you read through this document thoroughly.
 
