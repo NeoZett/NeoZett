@@ -1,4 +1,4 @@
-# How about me: Neo Zetterberg?
+# How about me: Neo Zetterberg
 
 *Hello, I'm Neo. Look around and you might find something interesting.*
 
@@ -29,12 +29,11 @@ I'm an innovative mind with extravagant thoughts.
 Hello. My name is Neo, and I'm an aspiring developer. I love Computer Science and
 Psychology. In this document I will explain more about myself.
 
-I would really appreciate it if you read through this document, but you
-obviously don't have to.
+I would really appreciate it if you read through this document.
 
 ### 2. Background 📜
 
-...
+I am sixteen years old and started programming at around ten. Initially, it was
 
 ### 2.1 Glossary of Terms 🔍
 
