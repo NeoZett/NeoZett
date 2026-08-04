@@ -31,7 +31,7 @@ I would really appreciate it if you read through this document thoroughly.
 ### 2. Background 📜
 
 I am sixteen years old and started programming at around ten. Initially, it was
-mostly web-development through a webbsite called [koda.nu](https://koda.nu) and
+mostly web-development through a website called [koda.nu](https://koda.nu) and
 it wasn't until much later that I started with HTML development.
 
 After doing this for a some time, I had found myself a rabbit hole; and I
